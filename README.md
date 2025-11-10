@@ -6,6 +6,9 @@ The objective of this project is to create, analyze, and visualize global billio
 
 The objective of this project is to create, analyze, and visualize global billionaire data for 2024 to identify key metrics such as total billionaires, average age, and average net worth, while highlighting the top billionaire of 2024 and providing detailed insights by country, with a special focus on India.
 
+<img width="1170" height="660" alt="image" src="https://github.com/user-attachments/assets/ffc1fe58-03b2-4364-aadf-114ca371bfa2" />
+
+
 📊 Project Overview
 
 This project aims to present a comprehensive Billionaires Dashboard built in Microsoft Excel.
